@@ -94,26 +94,6 @@ while True:
 
 ---
 
-## 📚 Dependencies
-
-cassio 
-datasets 
-langchain 
-openai 
-tiktoken
-langchain
-python-dotenv
-PyPDF2
-ipykernel
-langchain-community
-pypdf
-langchain-text-splitters
-langchain-openai
-langchain-groq
-huggingface_hub
-
-Ensure all dependencies are installed as per the `requirements.txt` file.
-
 ---
 
 ## 🔗 Resources
